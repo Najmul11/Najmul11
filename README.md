@@ -1,5 +1,5 @@
 <img src="https://github.com/Najmul11/Najmul11/blob/main/header.png" alt="banner that says Najmul Hoque - full stack engineer, ">
-I'm a Full Stack Developer based in Bangladesh, currently pursuing my degree in Computer Science and Engineering. Some technologies I enjoy working with include ReactJS, NexJS, Typescript , MongoDB and PostgreSQL. I'm always eager to expand my skill set. Currently, I'm diving deeper into Docker and AWS.
+I'm a Full Stack Developer based in Bangladesh, currently pursuing my degree in Computer Science and Engineering. Some technologies I enjoy working with include ReactJS, NexJS, Typescript , MongoDB and PostgreSQL. I'm always eager to expand my skill set. Currently, I'm learning web3.
 
 ### 🧿 Like to meet me?
 
@@ -18,11 +18,10 @@ const najmul = {
     frontEnd: ["ReactJs", "NextJS"],
     backEnd: ["Node", "Express"],
     databases: ["mongo", "postgreSQL"],
-    devOps: ["AWS", "Docker🐳"],
     misc: ["Mongoose", "Prisma", "Redis", "Stripe", "JWT" , "TailwindCss", "Antd"],
   },
   softSkills: "team player", "bias for action",
-  currentFocus: "Learning Docker and Blockchain",
+  currentFocus: "Web3 and Solana",
   funFact: "When I code , I end up writing bugs :)",
 };
 ```
