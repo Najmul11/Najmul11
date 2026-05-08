@@ -36,6 +36,6 @@ npx najmul
 
 ### Or
 
-<a href="https://discord.com/channels/@slise.web3" target="_blank"><img align="center" src="https://github.com/Najmul11/Najmul11/blob/main/icons/discord.png" alt="najmulhoque" height="30" width="30" style="margin-right: 20px" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nazpro/" target="_blank"><img align="center" src="https://github.com/Najmul11/Najmul11/blob/main/icons/linkedin.png" alt="najmulhoque" height="30" width="30" /></a>
+<a href="https://discord.com/channels/@slise.web3" target="_blank"><img align="center" src="https://github.com/Najmul11/Najmul11/blob/main/icons/discord.png" alt="najmulhoque" height="30" width="30" style="margin-right: 20px" />
 
 Feel free to explore my GitHub repositories and don't hesitate to reach out for collaboration or just to chat about technology! 😊
